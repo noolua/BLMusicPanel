@@ -3,7 +3,9 @@
 使用ESP32-S3模组，播放bilibili.com音频流带频谱显示的播放器演示程序。
 
 ## 演示视频
- - ## 正在制作 ...
+ - ## [《【已开源！】音频频谱播放器，ESP32-S3在线播放B站练习2年半专属名曲》](https://www.bilibili.com/video/BV19C4y1V7A2/)
+ - [<img src="./misc/video.jpg"  alt="Alt Text" width="480">](https://www.bilibili.com/video/BV19C4y1V7A2/)
+
  
 ## 背景
  - 使用ESP32的PWM音频驱动方式，播放音频，无需I2S解码芯片，音质还行吧。。。
